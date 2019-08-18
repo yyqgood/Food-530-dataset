@@ -1,4 +1,6 @@
-![alt text]()
+<img width="1000" alt="Screenshot 2019-08-18 at 3 53 06 PM" src="https://user-images.githubusercontent.com/35621763/63221793-bbd27100-c1d0-11e9-84df-b6916c9cca4e.png">
+
+
 # Food-530 dataset
 This dataset contains in total **530** categories and **392,183** food images, including Chinese food, Japanese food, Western food, and so on. Food names are named in Chinese.
 
