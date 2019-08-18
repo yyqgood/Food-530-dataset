@@ -6,11 +6,17 @@ Food recognition is the key technology to automatic dietary assessment. Existing
 The food categories are pupular dishes which were compiled from "Xinshipu". We collected food names from this website. Besides, we also collected data from [food-101](https://www.kaggle.com/kmader/food41) and [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/) and translated food names into Chinese. Food images were crawled from Baidu image search. Each category contains 500 to 1000 food images.
 
 
+
+
 # Statistics
-Number of Images: 392,183
+Number of Images: 392,183 
+
 Number of Categories: 530
 
 
 
+
+
+
 # Download
-The dataset is categorized by names, each category has 500 to 1000 images. You can obtained the dataset by sending email to NUSSZ AI Center (aicenter@nusri.cn). Specifically, the researchers interested in Food-530 should download and fill up this [Agreement Form](https://docs.google.com/document/d/1DNGeidiAyylzqfi29t7TCw8JDmCMUwherb6AnUDsHfs/edit?usp=sharing) and send it back to XXX.
+The dataset is categorized by names, each category has 500 to 1000 images. You can obtained the dataset by sending email to NUSSZ AI Center (aicenter@nusri.cn). Specifically, the researchers interested in Food-530 should download and fill up this [Agreement Form](https://drive.google.com/file/d/1e8wS6HJLvghQLFiqh4sOMsGqyDE_YBTx/view?usp=sharing) and send it back to NUSSZ AI Centre.
