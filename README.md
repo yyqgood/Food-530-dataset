@@ -1,2 +1,16 @@
-# Food-dataset
-This dataset contains in total 530 categories and 392,183 food images, including Chinese food, Japanese food, Western food, and so on.
+# Food-530 dataset
+This dataset contains in total **530** categories and **392,183** food images, including Chinese food, Japanese food, Western food, and so on. Food names are named in Chinese.
+
+Food recognition is the key technology to automatic dietary assessment. Existing datasets for food recognition mainly contain Western and Japanese food, however, few Chinese food. In this project, we construct and release a new dataset called Food-530, which contains 392,183 food images from 530 categories, including Chinese food, Japanese food, Western food, and so on. This is currently the biggest Chinese food dataset.
+
+The food categories are pupular dishes which were compiled from "Xinshipu". We collected food names from this website. Besides, we also collected data from [food-101](https://www.kaggle.com/kmader/food41) and [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/) and translated food names into Chinese. Food images were crawled from Baidu image search. Each category contains 500 to 1000 food images.
+
+
+# Statistics
+Number of Images: 392,183
+Number of Categories: 530
+
+
+
+# Download
+The dataset is categorized by names, each category has 500 to 1000 images. You can obtained the dataset by sending email to NUSSZ AI Center (aicenter@nusri.cn). Specifically, the researchers interested in Food-530 should download and fill up this [Agreement Form](https://docs.google.com/document/d/1DNGeidiAyylzqfi29t7TCw8JDmCMUwherb6AnUDsHfs/edit?usp=sharing) and send it back to XXX.
