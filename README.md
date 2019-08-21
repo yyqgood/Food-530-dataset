@@ -21,4 +21,4 @@ Food Names (in Chinese):
 
 
 # Download
-The dataset is categorized by names, each category has 500 to 1000 images. You can obtain the dataset by sending an email to NUS AI Innovation and Commercialization Centre at Suzhou (NUS AI Center in short, aicenter@nusri.cn). Specifically, the researchers interested in Food-530 should download and fill up this [Agreement Form](https://drive.google.com/file/d/1e8wS6HJLvghQLFiqh4sOMsGqyDE_YBTx/view?usp=sharing) and send it back to NUS AI Center.
+The dataset is categorized by names, each category has 500 to 1000 images. You can obtain the dataset by sending an email to NUS AI Innovation and Commercialization Centre at Suzhou (NUS AI Center in short, aicenter@nusri.cn). Specifically, the researchers interested in Food-530 should download and fill up this [Agreement Form](https://drive.google.com/file/d/1e8wS6HJLvghQLFiqh4sOMsGqyDE_YBTx/view?usp=sharing) (if you are in China, you can click [here](https://wenku.baidu.com/view/7204647c7d1cfad6195f312b3169a4517623e526) to download) and send it back to NUS AI Center.
