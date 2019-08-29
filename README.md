@@ -4,7 +4,7 @@
 
 Food recognition is the key technology to automatic dietary assessment. Existing datasets for food recognition mainly contain Western and Japanese food, however, few Chinese food. In this project, we construct and release a new dataset called **Food-530**, which contains **392,183** food images from **530** categories, including Chinese food, Japanese food, Western food, and so on. This is currently the biggest Chinese food dataset.
 
-The food categories are pupular dishes which were compiled from "Xinshipu". We collect food names from [this website](https://www.xinshipu.com/) by using Python Beautiful Soup. Images in the dataset were crawled from Baidu image by using Selenium. Besides, we also collected data from [Food-101](https://www.kaggle.com/kmader/food41) (contains 101 categories, 101,000 images) and [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/) (contains 172 catogories, 110,241 images) and translated food names into Chinese. We appreciate Food-101 and City University of Hong Kong for sharing the dataset.
+The food categories are popular dishes which were compiled from "Xinshipu". We collect food names from [this website](https://www.xinshipu.com/) by using Python Beautiful Soup. Images in the dataset were crawled from Baidu image by using Selenium. Besides, we also collected data from [Food-101](https://www.kaggle.com/kmader/food41) (contains 101 categories, 101,000 images) and [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/) (contains 172 categories, 110,241 images) and translated food names into Chinese. We appreciate Food-101 and City University of Hong Kong for sharing the dataset.
 
 
 
